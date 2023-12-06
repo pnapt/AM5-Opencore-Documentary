@@ -3,7 +3,7 @@
 1. This repository is just documentary on my adventure with AM5 hackintosh
 
 **Specs**
-
+|------------|-------------------------------|
 | MB | Asrock B650M-HDV/M.2 |
 | BIOS | 2.02 |
 | Processor | AMD Ryzen 9 7900 |
@@ -13,9 +13,7 @@
 | dGPU | ~~RX6700XT~~ |
 | Wifi | Intel AX210 |
 | Sound | Realtek ALC |
-Installed OS
 | macOS | 13.6.1 |
-Configuration
 | SMBios | MacPro7,1 |
 
 
