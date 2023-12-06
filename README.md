@@ -3,6 +3,7 @@
 1. This repository is just documentary on my adventure with AM5 hackintosh
 
 **Specs**
+|  |  |
 |------------|-------------------------------|
 | MB | Asrock B650M-HDV/M.2 |
 | BIOS | 2.02 |
